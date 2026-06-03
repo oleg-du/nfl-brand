@@ -1,4 +1,4 @@
-mountpoints:
+mountpoins:
   /:
-    url: https://content.da.live/oleg-du-nfl/nfl-brand
-    type: markup
+    url:  https://content.da.live/oleg-du-nfl/nfl-brand
+    type:  markup
