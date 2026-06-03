@@ -1,6 +1,6 @@
 {
   "project": "NFL Brand",
-  "previewHost": "main--nfl-brand--oleg-du-nfl.aem.page",
-  "liveHost": "main--nfl-brand--oleg-du-nfl.aem.live",
+  "previewHost": "main--nfl-brand--oleg-du.aem.page",
+  "liveHost": "main--nfl-brand--oleg-du.aem.live",
   "plugins": []
 }
