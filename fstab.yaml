@@ -1,4 +1,4 @@
 mountpoints:
   /:
     url: https://raw.githubusercontent.com/oleg-du-nfl/nfl-brand/main
-    type: markup
+
