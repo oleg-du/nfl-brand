@@ -1,4 +1,4 @@
 mountpoints:
   /:
-    url: [raw.githubusercontent.com](https://raw.githubusercontent.com/oleg-du-nfl/brand-guidelines/main/)
+    url: [raw.githubusercontent.com](https://raw.githubusercontent.com/oleg-du-nfl/nfl-brand/main)
     type: markup
